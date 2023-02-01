@@ -7,16 +7,14 @@ Logic based sudoku solving application written in Java
 ------------------------------------------------------
 
 In its current state, this application is able to solve:
-
-All sudoku.com/easy/ puzzles
-All sudoku.com/medium/ puzzles
-All sudoku.com/hard/ puzzles
-Some sudoku.com/expert/ puzzles
+ - All sudoku.com/easy/ puzzles
+ - All sudoku.com/medium/ puzzles
+ - All sudoku.com/hard/ puzzles
+ - Some sudoku.com/expert/ puzzles
 
 It is unable to solve:
-
-Some sudoku.com/expert/ puzzles
-All sudoku.com/evil/ puzzles
+ - Some sudoku.com/expert/ puzzles
+ - All sudoku.com/evil/ puzzles
 
 -----------------------------
 
